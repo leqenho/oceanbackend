@@ -1,0 +1,23 @@
+{
+  "name": "oceanbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leqenho/oceanbackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leqenho/oceanbackend/issues"
+  },
+  "homepage": "https://github.com/leqenho/oceanbackend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
